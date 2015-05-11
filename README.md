@@ -16,6 +16,6 @@ Had family in town this weekend so I wasn't able to dedicate as much time to thi
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](dropboxdemo.gif)
+![Video Walkthrough](dropbox-demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
