@@ -230,7 +230,7 @@
         <scene sceneID="JgJ-1B-99h">
             <objects>
                 <tabBarController id="BPK-QS-QT5" sceneMemberID="viewController">
-                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="hUZ-MY-ana">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -390,7 +390,7 @@
         <scene sceneID="7ov-bX-zkG">
             <objects>
                 <tabBarController id="qTh-5h-JYd" sceneMemberID="viewController">
-                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="mcu-eU-51U">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
